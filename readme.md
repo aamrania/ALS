@@ -14,6 +14,6 @@ This repository has answers for each of the 4 sections:
   * *Analytics_Data.xlsx*: A Excel File that contains 3 emails statistics
   * *Analytics_Answers.pdf*: A PDF file that contains answers to each of the 5 Analytical questions
 * **Segmentation Exercise**: This section contains a unique deliverable:
-  * *Segmentation_Answers.pdf*: A PDF that contains an answer to each of the 3 Segmentation Quality Assurance questions
+  * *Segmentation_Answers.pdf*: A PDF file that contains an answer to each of the 3 Segmentation Quality Assurance questions
 * **Proofing Exercise**: This section contains a unique deliverable:
   * *COMPLETED - Proofing Exercise.docx*: A Word Document that contains tracked changes of the proofing exercise
