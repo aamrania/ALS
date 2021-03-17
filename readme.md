@@ -1,4 +1,4 @@
-# Exercise for Anne Lewis Strategies - Senior Data Scientist position
+# Anne Lewis Strategies - Senior Data Scientist position - Interview Round 1
 
 This repository has answers for each of the 4 sections:
 * **ETL Exercise**: This section contains 4 deliverables:
